@@ -9,15 +9,23 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:text="ghifari ganten"
+=======
+        android:text="Ghifari Thufail Arkan Hidayat"
+>>>>>>> 9f22478a31292a5e79a25929c289317e814fa4f2
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+<<<<<<< HEAD
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="tombol"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+=======
+</androidx.constraintlayout.widget.ConstraintLayout>
+>>>>>>> 9f22478a31292a5e79a25929c289317e814fa4f2
